@@ -1,0 +1,1194 @@
+
+
+
+
+
+  
+<!doctype html>
+<html lang="en-gb" dir="ltr">
+	<head>
+
+<!-- AdSense hidden for user groups 12, 13, or 14 -->
+
+
+      
+		
+			<!-- add google analytics -->
+			<!-- Global site tag (gtag.js) - Google Analytics -->
+			<script async src='https://www.googletagmanager.com/gtag/js?id=G-H352V4S61X'></script>
+			<script>
+				window.dataLayer = window.dataLayer || [];
+				function gtag(){dataLayer.push(arguments);}
+				gtag('js', new Date());
+
+				gtag('config', 'G-H352V4S61X');
+			</script>
+			
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta charset="utf-8">
+	<meta name="rights" content="DaVinci Entertainment Holdings LLC">
+	<meta name="keywords" content="Florida Lottery results,Florida Lottery Numbers,Powerball Statistics,Powerball analysis,Powerball,Powerball results and Analysis,Powerball results,Powerball Winning Numbers,Winning powerball numbers for tonight,powerball numbers for tonight,powerball drawing tonight,powerball drawing,Powerball numbers">
+	<meta name="robots" content="max-snippet:-1, max-image-preview:large, max-video-preview:-1">
+	<meta name="description" content="Florida Powerball Number Results Analysis &amp; Statistics. Updated every minute plus free wheeling systems and drawing archives">
+	<meta name="generator" content="Lotto Expert - Designed by FULLSTACKDEV - www.fullstackdev.us">
+	<title>Florida Powerball Number Results and Analysis</title>
+	<link href="/images/Lotto Expert.png" rel="icon" type="image/vnd.microsoft.icon">
+	<link href="https://lottoexpert.net/component/finder/search?format=opensearch&amp;Itemid=101" rel="search" title="OpenSearch LottoExpert.net" type="application/opensearchdescription+xml">
+<link href="/media/vendor/awesomplete/css/awesomplete.css?1.1.5" rel="stylesheet" />
+	<link href="/media/vendor/joomla-custom-elements/css/joomla-alert.min.css?0.2.0" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-5.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/font-awesome-v4-shims.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" />
+	<link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" />
+	<link href="/media/com_sppagebuilder/css/page-22.css" rel="stylesheet" />
+	<link href="/media/com_jce/site/css/content.min.css?badb4208be409b1335b815dde676300e" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/bootstrap.min.css" rel="stylesheet" />
+	<link href="/plugins/system/helixultimate/assets/css/system-j4.min.css" rel="stylesheet" />
+	<link href="/plugins/system/helixultimate/assets/css/choices.css" rel="stylesheet" />
+	<link href="/media/system/css/joomla-fontawesome.min.css?20b928" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/template.css" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/presets/preset1.css" rel="stylesheet" />
+	<link href="/templates/shaper_helixultimate/css/custom.css" rel="stylesheet" />
+	<link href="/media/com_rsform/css/front.min.css?20b928" rel="stylesheet" />
+	<link href="/media/com_rsform/css/frameworks/responsive/responsive.min.css?20b928" rel="stylesheet" />
+	<style>/* General Styles */
+#ad-header {
+    max-height: 280px; /* Removed redundant rule from the media query */
+}
+
+/* Hidden Elements */
+.eb-headers .eb-modules-wrap.eb-modules-stackideas-toolbar.fd-cf, 
+.eb-template .eb-image-popup {
+    display: none; /* Simplified selector remains */
+}
+
+.eb-headers {
+    margin-bottom: 35px;
+}
+
+.mod-grid {
+    display: inline-flex; /* Removed unnecessary !important */
+    max-width: 31%; /* Removed unnecessary !important */
+}
+
+/* Mobile Styles */
+@media only screen and (min-width: 300px) and (max-width: 1024px) {
+    table[id^="tablepress-"] {
+        width: auto !important; /* Simplified selector for all matching tables */
+    }
+    .mod-grid {
+        display: inline-flex; /* Removed unnecessary !important */
+        max-width: 100%; /* Removed unnecessary !important */
+    }
+}
+
+/* Social Wrap */
+.social-wrap.d-flex.align-items-center {
+    position: absolute;
+    right: 100px;
+    top: 10px;
+}
+@media (max-width: 600px) {
+    .social-wrap.d-flex.align-items-center {
+        right: 20px; /* Adjust for smaller screens */
+        top: 5px;
+    }
+}
+
+/* Ad Slot */
+.ad-slot {
+    aspect-ratio: 4 / 3; /* Makes the ad slot responsive */
+    background-color: #f0f0f0; /* Placeholder color */
+    width: 100%; /* Ensure it scales responsively */
+    max-width: 300px; /* Restrict to common ad dimensions */
+    height: auto; /* Adjust to maintain aspect ratio */
+}</style>
+	<style>.logo-image {height:110px;}.logo-image-phone {height:110px;}</style>
+	<style>.scrollToTop {
+			padding: 10px;
+			margin: 20px;
+			text-align: center; 
+			font-weight: bold;
+			text-decoration: none;
+			position:fixed;
+			bottom: 0;
+			right: 0;
+			opacity: 0;
+			transition: opacity 0.2s ease;
+			z-index: 100;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			flex-direction: column;
+			width: 50px;
+			height: 50px;
+			color: inherit;
+			font-size: inheritpx;
+			font-family: inherit;
+			background-color: none;
+			background-image: url(/);
+			background-position: center center ;
+			background-repeat: no-repeat;
+			border: 2px rgba(0,0,0,0.2) solid;
+			border-radius: 50%;
+			box-shadow: transparent 0 0 0px;
+		}
+		.scrollToTop:hover {
+			text-decoration:none;
+			color: ;
+		}.scrollToTop-icon {
+				display: inline-block;
+				vertical-align: middle;
+				background-image: url(/plugins/system/scrolltock/images/arrow-4.svg);
+				background-position: center center ;
+				background-repeat: no-repeat;
+				background-size: 20px 20px;
+				width: 100%;
+				height: 100%;
+				margin: 0px;
+				border: 
+				border-radius: 0px;
+			}
+			.scrollToTop-text {
+				vertical-align: middle;
+				display: block;
+			}.scrolltotop-show { opacity: 1; }</style>
+<script src="/media/vendor/jquery/js/jquery.min.js?3.7.1"></script>
+	<script src="/media/legacy/js/jquery-noconflict.min.js?504da4"></script>
+	<script type="application/json" class="joomla-script-options new">{"csrf.token":"3b9233bdd187b0aa7e65a0dd6832f7a7","data":{"breakpoints":{"tablet":991,"mobile":480},"header":{"stickyOffset":"100"}},"joomla.jtext":{"MOD_FINDER_SEARCH_VALUE":"Search &hellip;","JLIB_JS_AJAX_ERROR_OTHER":"An error has occurred while fetching the JSON data: HTTP %s status code.","JLIB_JS_AJAX_ERROR_PARSE":"A parse error has occurred while processing the following JSON data:<br><code style=\"color:inherit;white-space:pre-wrap;padding:0;margin:0;border:0;background:inherit;\">%s</code>","ERROR":"Error","MESSAGE":"Message","NOTICE":"Notice","WARNING":"Warning","JCLOSE":"Close","JOK":"OK","JOPEN":"Open"},"finder-search":{"url":"/component/finder/?task=suggestions.suggest&format=json&tmpl=component&Itemid=101"},"system.paths":{"root":"","rootFull":"https://lottoexpert.net/","base":"","baseFull":"https://lottoexpert.net/"},"system.keepalive":{"interval":840000,"uri":"/component/ajax/?format=json"}}</script>
+	<script src="/media/system/js/core.min.js?83f2c9"></script>
+	<script src="/media/vendor/bootstrap/js/alert.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/button.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/carousel.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/collapse.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/dropdown.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/modal.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/offcanvas.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/popover.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/scrollspy.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/tab.min.js?5.3.2" type="module"></script>
+	<script src="/media/vendor/bootstrap/js/toast.min.js?5.3.2" type="module"></script>
+	<script src="/media/system/js/showon.min.js?891646" type="module"></script>
+	<script src="/media/vendor/awesomplete/js/awesomplete.min.js?1.1.5" defer></script>
+	<script src="/media/com_finder/js/finder.min.js?5729ed" type="module"></script>
+	<script src="/media/system/js/keepalive.min.js?08e025" type="module"></script>
+	<script src="/media/system/js/messages.min.js?7a5169" type="module"></script>
+	<script src="/components/com_sppagebuilder/assets/js/jquery.parallax.js?efcb014a6f41a6d880968ea58653b58d"></script>
+	<script src="/components/com_sppagebuilder/assets/js/sppagebuilder.js?efcb014a6f41a6d880968ea58653b58d" defer></script>
+	<script src="/templates/shaper_helixultimate/js/main.js"></script>
+	<script src="https://www.google.com/recaptcha/api.js?render=6LdKKaspAAAAAArUEZQpfK3e7LMZoxZ-Alr3oXcc"></script>
+	<script src="/media/com_rsform/js/script.min.js?20b928"></script>
+	<script src="/media/plg_system_rsfprecaptchav3/js/script.js?20b928"></script>
+	<script>;(function ($) {
+	$.ajaxSetup({
+		headers: {
+			'X-CSRF-Token': Joomla.getOptions('csrf.token')
+		}
+	});
+})(jQuery);</script>
+	<script>document.addEventListener("DOMContentLoaded", function() {
+    var body = document.querySelector("body");
+    if (body.classList.contains("offcanvas-menu-active")) {
+        body.classList.remove("offcanvas-menu-active");
+    }
+});
+
+document.addEventListener("DOMContentLoaded", function () {
+    const menuParents = document.querySelectorAll(".sp-mobile-menu li.menu-parent > a");
+
+    menuParents.forEach(function (parentLink) {
+        parentLink.addEventListener("click", function (e) {
+            e.preventDefault(); // Prevent default link click
+            const li = parentLink.parentElement;
+            li.classList.toggle("menu-open");
+        });
+    });
+});</script>
+	<script>template="shaper_helixultimate";</script>
+	<script>if (typeof window.grecaptcha !== 'undefined') { grecaptcha.ready(function() { grecaptcha.execute("6LdKKaspAAAAAArUEZQpfK3e7LMZoxZ-Alr3oXcc", {action:'homepage'});}); }</script>
+	<script>
+	var Scrolltock = function(container) {
+				if (! container) container = jQuery(document);
+				jQuery('a.scrollTo', container).click( function(event) {
+					var pageurl = window.location.href.split('#');
+					var linkurl = jQuery(this).attr('href').split('#');
+
+					if ( jQuery(this).attr('href').indexOf('#') != 0
+						&& ( ( jQuery(this).attr('href').indexOf('http') == 0 && pageurl[0] != linkurl[0] )
+						|| jQuery(this).attr('href').indexOf('http') != 0 && pageurl[0] != 'https://lottoexpert.net/' + linkurl[0].replace('/', '') )
+						) {
+						// here action is the natural redirection of the link to the page
+					} else {
+						event.preventDefault();
+						jQuery(this).scrolltock();
+						setTimeout(function(){ jQuery(this).scrolltock(); }, 1000); // add timer to fix issue with page load
+					}
+				});
+			}
+			jQuery(document).ready(function($){
+				Scrolltock();
+
+				$.fn.scrolltock = function() {
+					var link = $(this);
+					var page = jQuery(this).attr('href');
+					if (page === undefined) return;
+					var pattern = /#(.*)/;
+					var targetEl = page.match(pattern);
+					if (! targetEl.length) return;
+					if (! jQuery(targetEl[0]).length) return;
+
+					// close the menu hamburger
+					if (link.parents('ul.nav,ul.menu,ul.maximenuck').length) {
+						var menu = $(link.parents('ul.nav,ul.menu,ul.maximenuck')[0]);
+						if (menu.parent().find('> .mobileckhambuger_toggler').length && menu.parent().find('> .mobileckhambuger_toggler').attr('checked') == 'checked') {
+							menu.animate({'opacity' : '0'}, function() { menu.parent().find('> .mobileckhambuger_toggler').attr('checked', false); menu.css('opacity', '1'); });
+						}
+					}
+
+					var speed = link.attr('data-speed') ? link.attr('data-speed') : 1000;
+					var isMobile = ($(window).width() <= 0);
+					if (isMobile) {
+						var offsety = link.attr('data-mobile-offset') ? parseInt(link.attr('data-mobile-offset')) : 0;
+					} else {
+						var offsety = link.attr('data-offset') ? parseInt(link.attr('data-offset')) : -80;
+					}
+					jQuery('html, body').animate( { scrollTop: jQuery(targetEl[0]).offset().top + offsety }, speed, scrolltock_setActiveItem() );
+					return false;
+				}
+				// Cache selectors
+				var lastId,
+				baseItems = jQuery('a.scrollTo');
+				// Anchors corresponding to menu items
+				scrollItems = baseItems.map(function(){
+					// if (! jQuery(jQuery(this).attr('href')).length) return;
+					var pattern = /#(.*)/;
+					var targetEl = jQuery(this).attr('href').match(pattern);
+
+						if (targetEl == null ) return;
+						if (! targetEl[0]) return;
+						if (! jQuery(targetEl[0]).length) return;
+						var item = jQuery(targetEl[0]);
+					if (item.length) { return item; }
+				});
+				// Bind to scroll
+				jQuery(window).scroll(function(){
+					scrolltock_setActiveItem();
+				});
+				
+				function scrolltock_setActiveItem() {
+					var isMobile = ($(window).width() <= 0);
+					if (isMobile) {
+						var offsety = 0;
+					} else {
+						var offsety = -80;
+					}
+					// Get container scroll position
+					var fromTop = jQuery(this).scrollTop()- (offsety) + 2;
+
+					// Get id of current scroll item
+					var cur = scrollItems.map(function(){
+						if (jQuery(this).offset().top < fromTop)
+							return this;
+					});
+					if (cur.length) {
+						// Get the id of the current element
+						cur = cur[cur.length-1];
+						var id = cur && cur.length ? cur[0].id : '';
+						var targetParent = baseItems.end().filter('[href$="#'+id+'"]').parent();
+
+						if (lastId !== id || !targetParent.hasClass('active')) {
+						   lastId = id;
+						   // Set/remove active class
+							baseItems.parent().parent().find('.active').removeClass('active');
+							baseItems
+							 .parent().removeClass('active')
+							 .end().filter('[href$="#'+id+'"]').parent().addClass('active');
+						}
+					} else {
+						baseItems.parent().parent().find('.active').removeClass('active');
+						baseItems.parent().removeClass('active');
+					}                  
+				}
+				function scrolltock_mobilemenuck_compat(mobilemenu) {
+					baseItems = jQuery.merge(baseItems, jQuery('a.scrollTo', mobilemenu));
+				}
+				window.scrolltock_mobilemenuck_compat = scrolltock_mobilemenuck_compat;
+			}); // end of dom ready
+
+			window.addEventListener("load", function(event) {
+
+				var pageurl, pattern, targetPage;
+				pageurl = window.location.href;
+				pattern = /#(.*)/;
+				targetPage = pageurl.match(pattern);
+
+				var scrolltock_animate = function() {
+					jQuery('html, body').animate( { scrollTop: jQuery(targetPage[0]).offset().top + -80 }, 1000 );
+				}
+				if (targetPage && jQuery(targetPage[0]).length) {
+					
+					scrolltock_animate();
+					setTimeout(function(){ scrolltock_animate(); }, 1000);
+				}
+			});
+
+			function scrolltock_removeHashFromUrl() {
+				var uri = window.location.toString();
+	  
+				if (uri.indexOf("#") > 0) {
+					var clean_uri = uri.substring(0,
+									uri.indexOf("#"));
+	  
+					window.history.replaceState({},
+							document.title, clean_uri);
+				}
+			}
+			</script>
+	<script>RSFormProUtils.addEvent(window, 'load', function(){ RSFormPro.setDisabledSubmit('1', true); });</script>
+	<script>RSFormPro.scrollToError = true;</script>
+	<script>RSFormProReCAPTCHAv3.add("6LdKKaspAAAAAArUEZQpfK3e7LMZoxZ-Alr3oXcc", "contactform", 1);RSFormProUtils.addEvent(window, 'load', function() {RSFormPro.addFormEvent(1, function(){ RSFormProReCAPTCHAv3.execute(1); });});</script>
+	<script>RSFormPro.Ajax.URL = "\/component\/rsform\/?task=ajaxValidate&Itemid=195";</script>
+	<script>RSFormProUtils.addEvent(window, 'load', function(){
+    RSFormPro.Ajax.overrideSubmit(1, {"parent":"","field":"rsform-error"}, true);
+});</script>
+	<script>ajaxExtraValidationScript[1] = function(task, formId, data){ 
+var formComponents = {};
+formComponents[1]='FullName';formComponents[3]='Email';formComponents[23]='comments';formComponents[43]='What_is_the_Color_of_the_Sky';formComponents[45]='Callme';
+RSFormPro.Ajax.displayValidationErrors(formComponents, task, formId, data);
+};
+</script>
+	<script>function rsfp_runCondition3(){RSFormPro.Conditions.run({"form_id":1,"action":"show","block":1,"condition":"all","ordering":0,"ComponentNames":["Submit"],"details":[{"operator":"is","value":"Blue","ComponentName":"What_is_the_Color_of_the_Sky"}]});}window.addEventListener('DOMContentLoaded', function() { RSFormPro.Conditions.add(1, "What_is_the_Color_of_the_Sky", rsfp_runCondition3); });function rsfp_runAllConditions1(){rsfp_runCondition3();};RSFormPro.Conditions.delayRun(1);window.addEventListener('DOMContentLoaded', function(){ RSFormPro.Conditions.addReset(1); });</script>
+	<style type="text/css">
+.formResponsive select, .formResponsive textarea, .formResponsive input[type="text"], .formResponsive input[type="number"], .formResponsive input[type="email"], .formResponsive input[type="tel"], .formResponsive input[type="url"], .formResponsive input[type="password"]{margin-bottom:0px;}
+strong.formRequired,label.formControlLabel,p.formDescription {display: none;}
+.formResponsive .formHorizontal .formControlLabel{width:auto;}
+.formResponsive .formHorizontal .formControls{margin-left:0px;margin-right:20px;}
+.formResponsive .formHorizontal .rsform-block{margin-bottom:0px;}
+input[type="text"]:not(.form-control), input[type="email"]:not(.form-control), input[type="url"]:not(.form-control), input[type="date"]:not(.form-control), input[type="password"]:not(.form-control), input[type="search"]:not(.form-control), input[type="tel"]:not(.form-control), input[type="number"]:not(.form-control){padding: 10px;font-size: 15px;}
+select:not(.form-control) {padding: 0px 10px !important;font-size: 15px;width: 100%;}
+.formResponsive .formHorizontal textarea {font-size: 18px;width: 100%;min-height: 150px;}
+button#submit {margin: 0px auto 0px;font-size: 24px;padding: 15px;width: 100%;background: #72bd43;color: #fff;border: 2px solid #7f7676;transition: all 0.3s ease;}
+button#submit:hover{background:#61e60e;transition:all 0.3s ease;}
+.rsform-block.rsform-block-callme {max-height: 0px;}
+.formResponsive .formHorizontal .rsform-block{margin-bottom:0px;}
+.formResponsive input, .formResponsive textarea {width: 100%;}
+.rsform-block.rsform-block-submit .formControls {padding: 0px;margin: 0px;}
+.rsformreport h2 {color: #171717;font-size: 20px;font-weight: 700;margin: 0px !important;}
+.rsform-block.rsform-block-header {color: #333;}
+input#FullName,input#Email {width: 100%;}
+input#Submit {background: #000;padding: 5px 10px 8px;font-size: 18px;}
+input.rsform-reset-button {background: red;padding: 5px 10px 8px !important;font-size: 18px !important;}
+.sppb-panel-primary>.sppb-panel-heading {text-align: right;color: #fff;background: #171717;}
+.sppb-panel.sppb-panel-primary {border: none;}
+.rsform-block.rsform-block-submit {text-align: right;}
+</style>
+	<!-- Start: Google Structured Data -->
+            
+<script type="application/ld+json" data-type="gsd">
+{
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+        {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://lottoexpert.net/"
+        },
+        {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Powerball Jackpot Analysis",
+            "item": "https://lottoexpert.net/powerball-winning-numbers-analysis-tools"
+        }
+    ]
+}
+</script>
+            <!-- End: Google Structured Data -->
+<script defer src="/fsdjs/sorttable.js"></script>
+
+
+<!-- Google Analytics tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H352V4S61X"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-H352V4S61X');
+</script>
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "LottoExpert",
+  "url": "https://lottoexpert.net",
+  "logo": "https://lottoexpert.net/images/logo.svg"
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "LottoExpert",
+  "url": "https://lottoexpert.net",
+  "logo": "https://lottoexpert.net/images/Lotto%20Expert.png"
+}
+</script>
+<!-- Preconnect for faster font loading -->
+<link rel="preconnect" href="https://fonts.googleapis.com" crossorigin>
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+
+<!-- Defer render-blocking SP Page Builder CSS -->
+<link rel="stylesheet" href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" media="print" onload="this.media='all'">
+
+<!-- Defer custom CSS (if not critical) -->
+<link rel="stylesheet" href="/templates/shaper_helixultimate/css/custom.css" media="print" onload="this.media='all'">
+
+<!-- Prevent CLS from Google Fonts (if used) -->
+<style>
+  html { font-display: swap; }
+</style>
+
+
+<script
+  id="usercentrics-ppg"
+  privacy-policy-id="1c1fe900-d677-46c8-8a1b-7eba4477ca98"
+  data-language="en"
+  src="https://policygenerator.usercentrics.eu/api/privacy-policy"
+></script>
+		
+      
+
+    
+<!-- === END: Breadcrumb Structured Data === -->
+
+    
+    
+    
+    
+    </head>
+	<body class="site helix-ultimate hu com_sppagebuilder com-sppagebuilder view-page layout-default task-none itemid-195 en-gb ltr sticky-header layout-fluid offcanvas-init offcanvs-position-left">
+
+		
+		
+		<div class="body-wrapper">
+			<div class="body-innerwrapper">
+				
+	<div class="sticky-header-placeholder"></div>
+<header id="sp-header" class="full-header full-header-center">
+	<div class="container-fluid">
+		<div class="container-inner">
+			<div class="row align-items-center">
+				<!-- Logo -->
+				<div id="sp-logo" class="col-auto">
+					<div class="sp-column">
+													<div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom134" class="mod-custom custom">
+    </div>
+</div></div>
+							<a id="offcanvas-toggler" aria-label="Menu" class="offcanvas-toggler-left d-flex align-items-center" href="#" aria-hidden="true" title="Menu"><div class="burger-icon"><span></span><span></span><span></span></div></a><div class="logo"><a href="/">
+				<img class='logo-image  d-none d-lg-inline-block'
+					srcset='https://lottoexpert.net/images/lotto_expert_refined_transparent.png 1x, https://lottoexpert.net/images/lotto_expert_refined_transparent.png 2x'
+					src='https://lottoexpert.net/images/lotto_expert_refined_transparent.png'
+					height='110px'
+					alt='Lotto Expert.net - We take the guesswork out of lotteries!'
+				/>
+				<img class="logo-image-phone d-inline-block d-lg-none" src="https://lottoexpert.net/images/lotto_expert_refined_transparent.png" alt="Lotto Expert.net - We take the guesswork out of lotteries!" /></a></div>											</div>
+				</div>
+
+				<!-- Menu -->
+				<div id="sp-menu" class="menu-with-social menu-center col-auto flex-auto">
+					<div class="sp-column d-flex justify-content-between align-items-center">
+						<div class="menu-with-offcanvas d-flex justify-content-between align-items-center flex-auto">
+							<nav class="sp-megamenu-wrapper d-flex" role="navigation"><ul class="sp-megamenu-parent menu-animation-fade-up d-none d-lg-block"><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/blog/play-smarter-not-harder"  >Play Smarter Not Harder</a></li><li class="sp-menu-item"><a   href="/blog/how-to-use-lottoexpert"  >How to Use LottoExpert</a></li><li class="sp-menu-item"></li></ul></div></div></li><li class="sp-menu-item"><a   href="/what-is-wheeling"  >Wheeling?</a></li><li class="sp-menu-item sp-has-child"><span  class=" sp-menu-heading"  >Picking Numbers</span><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/picking-winning-numbers/how-to-pick-numbers"  >How to Pick Numbers</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/how-to-play-powerball"  >How to Play Powerball</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/how-to-play-mega-millions"  >How to Play Mega Millions</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/advice-from-the-web-on-picking-winning-lottery-numbers"  >Advice from the Web on Picking winning Lottery Numbers</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/how-to-win-powerball-or-mega-millions-lottery"  >How to win Powerball or Mega Millions Lottery! </a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/matrix-random-number-generator"  >Matrix Random Number Generator</a></li><li class="sp-menu-item sp-has-child"><span  class=" sp-menu-separator"  >Artificial Intelligence</span><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/florida-fantasy-5-artificial-intelligence-lottery-number-predictor"  >Florida Fantasy 5 A.I. Lottery Number Predictor</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-powered-predictions-for-powerball"  >AI Predictions for Powerball</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-mega-millions"  >AI Predictions for Mega Millions</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-california-fantasy-5"  >AI Predictions for California Fantasy 5</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-florida-fantasy-5"  >AI Predictions for Florida Fantasy 5</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-powered-new-york-take-5-midday"  >AI-Powered New York Take 5 Midday</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-predictions-new-york-take-5-evening"  >AI Predictions New York Take 5 Evening</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-predictions-oklahoma-cash-5"  >AI Predictions Oklahoma Cash 5 </a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-powered-lucky-for-life-predictions"  >AI-Powered Lucky For Life Predictions</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-california-superlotto-plus"  >AI Predictions for California Superlotto Plus</a></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-lottery-predictor-for-cash4life"  >AI Lottery Predictor for Cash4Life</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-lottery-prediction-puerto-rico-loto-plus"  >AI Lottery Prediction Puerto Rico Loto Plus</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-lottery-predictions-for-illinois-pick-3-midday"  >AI Lottery Predictions for Illinois Pick 3 Midday</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/artificial-intelligence/ai-lottery-prediction-a-responsible-data-driven-explanation"  >AI Lottery Prediction — A Responsible, Data-Driven Explanation</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/picking-winning-numbers/revolutionizing-lottery-predictions-ai-neural-networks-and-statistical-insights"  >Revolutionizing Lottery Predictions: AI, Neural Networks, and Statistical Insights</a></li></ul></div></div></li><li class="sp-menu-item"><a   href="/"  >LottoExpert</a></li><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/u-s-lotteries/u-s-lotteries"  >U.S. Lotteries</a></li><li class="sp-menu-item"><a   href="/u-s-lotteries/lottery-odds"  >Lottery Odds</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li></ul></div></div></li><li class="sp-menu-item sp-has-child current-item active"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/powerball-winning-numbers-analysis-tools/powerball-skip-analysis"  >Powerball Skip Analysis</a></li></ul></div></div></li><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/megamillions-winning-numbers-analysis-tools/megamillions-skip-analysis"  >Megamillions Skip Analysis</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/press-releases/lottoexpert-introduces-skai"  >LottoExpert Introduces SKAI</a></li><li class="sp-menu-item"><a   href="/press-releases/press-release-enhanced-powerball-skip-frequency-chart"  >Press Release: Enhanced Powerball Skip Frequency Chart</a></li><li class="sp-menu-item"><a   href="/press-releases/press-release-introduction-of-lottery-odds-calculator"  >Press Release: Introduction of Lottery Odds Calculator</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/ai-settings-explorer"  >AI Settings Explorer </a></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><span  class=" sp-menu-heading"  >Membership</span><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/membership/logout?task=user.menulogout"  >Logout</a></li><li class="sp-menu-item sp-has-child"><a   href="/membership/lottoexpert-subscriptions"  >Subscriptions</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/membership/lottoexpert-subscriptions/subscription-form"  >Subscription Form</a></li></ul></div></div></li><li class="sp-menu-item"><a   href="/membership/subscription-management"  >Subscription Management</a></li><li class="sp-menu-item"></li></ul></div></div></li><li class="sp-menu-item"><a   href="/logout?task=user.menulogout"  >LOGOUT</a></li><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/all-wheeling-systems/pick-10-wheeling-systems"  >Pick 10 Number Generator Wheeling Systems</a></li><li class="sp-menu-item sp-has-child"><a   href="/all-wheeling-systems/pick-7-wheeling-systems"  >Pick 7 Number Generator Wheeling Systems</a><div class="sp-dropdown sp-dropdown-sub sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/all-wheeling-systems/pick-7-wheeling-systems/pick-7-lottery-wheeling-system-9-numbers-generating-12-combinations-assurance-6-6"  >Pick 7 Lottery Wheeling System 9 Numbers Generating 12 Combinations Assurance 6/6</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li></ul></div></div></li><li class="sp-menu-item"><a   href="/all-wheeling-systems/pick-6-wheeling-systems"  >Pick 6 Number Generator Wheeling Systems</a></li><li class="sp-menu-item"><a   href="/all-wheeling-systems/pick-5-wheeling-systems"  >Pick 5 Powerball Mega Millions</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"><a   href="/all-wheeling-systems/pick-4-wheeling-systems"  >Pick 4 Number Generator Wheeling Systems</a></li><li class="sp-menu-item"><a   href="/all-wheeling-systems/pick-3-wheeling-systems"  >Pick 3 Number Generator Wheeling Systems</a></li></ul></div></div></li><li class="sp-menu-item"><a   href="/select-favorite-lotteries"  >Select Favorite Lotteries</a></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item sp-has-child"><div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;"><div class="sp-dropdown-inner"><ul class="sp-dropdown-items"><li class="sp-menu-item"><a   href="/powerball/lucky-numbers-today"  >Powerball Lucky Numbers Today</a></li><li class="sp-menu-item"><a   href="/powerball/quick-pick-today"  >Powerball Quick Pick Today</a></li><li class="sp-menu-item"><a   href="/powerball/winning-numbers-today"  >Powerball Winning Numbers Today</a></li></ul></div></div></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li><li class="sp-menu-item"></li></ul></nav>							
+						</div>
+
+						<!-- Related Modules -->
+						<div class="d-none d-lg-flex header-modules align-items-center">
+								
+													</div>
+
+						<!-- Social icons -->
+						<div class="social-wrap no-border d-flex align-items-center">
+													</div>
+
+						<!-- if offcanvas position right -->
+											</div>
+				</div>
+
+			</div>
+		</div>
+	</div>
+</header>				
+<section id="sp-breadcrumbs" class="breadcrumbs">
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-breadcrumbs" class="col-lg-12 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content">
+<div id="mod-custom259" class="mod-custom custom">
+    
+    
+        
+            You are signed in as Oscar Acosta
+        
+    
+</div>
+</div></div><div class="sp-module "><div class="sp-module-content">
+<ol  class="breadcrumb">
+			<li class="float-start">
+			<span class="divider fas fa-map-marker-alt" aria-hidden="true"></span>
+		</li>
+	
+				<li   class="breadcrumb-item"><a  href="/" class="pathway"><span itemprop="name">Home</span></a>				<meta  content="1">
+			</li>
+					<li   class="breadcrumb-item active"><span itemprop="name">Powerball Jackpot Analysis</span>				<meta  content="2">
+			</li>
+		</ol>
+</div></div></div></div></div>
+							</div>
+			</div>
+			
+	</section>
+
+<section id="sp-section-2" >
+
+				
+	
+<div class="row">
+	<div id="sp-title" class="col-lg-12 "><div class="sp-column "></div></div></div>
+				
+	</section>
+
+<section id="sp-main-body" >
+
+				
+	
+<div class="row">
+	
+<main id="sp-component" class="col-lg-12 ">
+	<div class="sp-column ">
+		<div id="system-message-container" aria-live="polite">
+	</div>
+
+
+		
+		<div id="sp-page-builder" class="sp-page-builder  page-22">
+
+	
+	<div class="page-content">
+				<section id="section-id-1658718972334" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1658718972333"><div id="column-id-1658718972333" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1728999115182" class="sppb-addon-wrapper"><div id="sppb-addon-1728999115182" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h1 class="sppb-addon-title">Lotto Powerball Results AI Analysis & Statistics</h1></div></div></div><div id="sppb-addon-wrapper-1765369643073" class="sppb-addon-wrapper"><div id="sppb-addon-1765369643073" class="clearfix "     ><div class="sppb-addon sppb-addon-header sppb-text-center"><h2 class="sppb-addon-title">Powerball number frequencies, hot & cold stats, and overdue numbers updated after every draw</h2></div></div></div><div id="sppb-addon-wrapper-1730224725458" class="sppb-addon-wrapper"><div id="sppb-addon-1730224725458" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"></div></div></div></div><div id="sppb-addon-wrapper-1743638837286" class="sppb-addon-wrapper"><div id="sppb-addon-1743638837286" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content">
+<style type="text/css">
+img.lotteryLogo {max-height: 100px;margin: 0px auto;}
+.latestDraw {overflow: hidden;width: 100%;max-width: 800px;margin: 0px auto 50px;border-bottom: 5px solid #000;border-right: 1px solid #ddd;border-left: 1px solid #ddd;border-radius: 10px;}
+.result-wrapper {width: 99%;padding: 5px;box-sizing: content-box;background:#fff;transition: all 0.3s ease;}
+.result-wrapper:hover{background:#fff;transition:all 0.3s ease;}
+.fsd-date {width: 100%;text-align: center;margin-bottom: 10px;}
+.fsd-dresults {display: block;width: 100%;text-align: center;color: #191094;font-weight: 500;font-size: 18px;background: #fded24;margin-bottom: 15px;border: 1px solid #191094;line-height: 1.2;padding-top: 15px;padding-bottom: 15px;}
+.fsd-dresults strong {font-size: 22px;font-weight: 800;letter-spacing: 2px;}
+span.pball {color: #dc2b13;}
+span.pplay {color: #1a1199;font-weight: 700;}
+h2.latestHeading{background:#261d8b;color: #fff;padding: 20px;font-size: 24px;text-align: center;margin-bottom: 0px;}
+.fsd-nJackpot {text-align: center;font-size: 21px;font-weight: 700;}
+.fsd-nJackpot span {font-size: 32px;color: #191094;}
+p.lstResult {text-align: center;}
+p.acsoon {background: black;color: #fff;padding: 5px;text-align: center;margin-bottom: 0px;}
+.drawHistory {text-align: center; padding: 15px;border: 1px solid #160e83;margin-top: 35px;background: #f6f6f6;border-radius: 10px;border-top: 7px solid #160e83;}
+.fsd-pb {width: 40px;display: inline-block;}
+
+/* Shared styles for both regular and Powerball */
+.fsd-circle,
+.fsd-pb-circle {
+  position: relative;
+  display: inline-block;
+  width: 32px;
+  height: 32px;
+  margin: 0 2px;
+  box-sizing: border-box;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 32px;
+  font-weight: bold;
+  font-size: 16px;
+  color: #fff;
+  padding: 0;
+}
+/* Regular balls */
+.fsd-circle {background: radial-gradient(circle at 50% 20%, #2ea9ff, #0066ad 75%, #333 100%);}
+/* Powerball */
+.fsd-pb-circle {background: radial-gradient(circle at 50% 20%, #f97f92, #a3071e 75%, #333 100%);}
+/* Shadow for 3D effect under the balls */
+.fsd-circle::after,
+.fsd-pb-circle::after {
+  content: "";
+  display: block;
+  position: absolute;
+  width: 32px;
+  height: 5px;
+  bottom: -10%;
+  left: 50%;
+  transform: translateX(-50%);
+  border-radius: 50%;
+  background: radial-gradient(ellipse at center, rgba(51, 51, 51, 0.75) 0%, rgba(51, 51, 51, 0) 75%);
+}
+
+.pbHistoryBtn:hover {background-color: #0d0b74;}
+.pbHistory {display: flex; justify-content: center; margin-bottom: 10px;}
+.pbHistoryBtn {
+  display: block; padding: 10px 20px; font-size: 12px; font-weight: bold; color: white;
+  background-color: #1a1199; text-align: center; border-radius: 5px; text-decoration: none; margin: 10px;
+  width: 250px; transition: background 0.3s ease;
+}
+/* Shadow Button Styling */
+.shadow-button {
+  text-decoration: none; color: #fff; font-size: 16px; display: inline-block; padding: 10px 20px;
+  background-color: #3c3686; border-radius: 5px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease, transform 0.3s ease;
+}
+.shadow-button:hover {box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3); transform: translateY(-3px);}
+.flash-red {animation: flashRed 1s infinite;}
+@keyframes flashRed {0%, 100% {color: inherit;} 50% {color: red;}}
+
+/* Subheading under main title (Powerball Results & Analysis) */
+.subheading {
+  max-width: 800px;
+  margin: 10px auto 0;
+  text-align: center;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+  color: #222;
+}
+
+/* One-line intro above AI/statistical tools */
+.tool-intro {
+  max-width: 800px;
+  margin: 25px auto 10px;
+  text-align: center;
+  font-size: 15px;
+  line-height: 1.6;
+  color: #333;
+}
+
+@media only screen and (min-width:320px) and (max-width:800px){
+  .result-wrapper,.fsd-date{width:100%}
+  h2.lotteryHeading {color: #fff;font-size: 18px;}
+  img.lottoMan {max-width: 32px;}
+  .drawHistory {padding: 5px;max-width: 97%;font-size: 14px;}
+  .subheading,
+  .tool-intro {
+    max-width: 95%;
+    font-size: 14px;
+  }
+}
+</style>
+
+<div class="latestDraw">
+<h2 class="latestHeading">Powerball Results & Analysis:<br/></h2>
+<p class="subheading">Powerball number frequencies, hot & cold stats, and overdue numbers updated after every draw.</p>
+<div class="result-wrapper"><img src="/images/lottodb/us/ar/powerball.png" class="lotteryLogo" alt="Arkansas Powerball"><div class="fsd-date">Powerball Results<br/><strong>03-18-2026</strong></div><p class="lstResult"><br/><span class="fsd-circle">14</span><span class="fsd-circle">18</span><span class="fsd-circle">19</span><span class="fsd-circle">21</span><span class="fsd-circle">69</span>  <span class="fsd-pb-circle">01</span><br/></p><div class="fsd-date">Next drawing date:<br/><strong>03-21-2026</strong></div><div class="fsd-nJackpot">Next Jackpot<br/><span>$120,000,000</span></div><div class="fsd-date">Powerball Double Play<br/><span class="fsd-circle">09</span><span class="fsd-circle">13</span><span class="fsd-circle">25</span><span class="fsd-circle">26</span><span class="fsd-circle">46</span>  <span class="fsd-pb-circle">23</span></div><div class="pbHistory">
+  <a class="pbHistoryBtn shadow-button" style="text-decoration: none; color: white;"
+      href="/powerball/quick-pick-today/?game_id=101&stn=Florida">
+    Quick Picks Today
+  </a>
+</div><div class="pbHistory">
+
+                <a class="pbHistoryBtn shadow-button" style="text-decoration: none; color: white;" href="/picking-winning-numbers/artificial-intelligence/skai-lottery-prediction?gameId=101">
+        SKAI Analysis
+    </a>
+            </div><div class="pbHistory">
+                <a class="pbHistoryBtn shadow-button" href="/picking-winning-numbers/artificial-intelligence/markov-chain-monte-carlo-mcmc-analysis?gameId=101">
+                   MCMC Markov Lottery Analysis
+                </a>
+            </div><div class="pbHistory">
+                <a class="pbHistoryBtn shadow-button" href="/picking-winning-numbers/artificial-intelligence/ai-powered-predictions?game_id=101">
+                    A.I. Lottery Analysis
+                </a>
+            </div><div class="pbHistory">
+                <a class="pbHistoryBtn shadow-button" href="/picking-winning-numbers/artificial-intelligence/skip-and-hit-analysis?game_id=101">
+                    Skip & Hit
+                </a>
+            </div><div class="pbHistory">
+                <a class="pbHistoryBtn shadow-button" href="/all-lottery-heatmaps?gameId=101">
+                    Heatmap Analysis
+                </a>
+            </div><div class="pbHistory">
+                <a class="pbHistoryBtn shadow-button" href="/lowest-drawn-number-analysis?gId=101&stateName=Arkansas&gName=Powerball&sTn=ar">
+                    Lowest Number Threshold Tool
+                </a>
+            </div><div class="pbHistory">
+                <a class="pbHistoryBtn shadow-button" href="/lottery-archives?gId=101&sTn=ar">
+                    POWERBALL ARCHIVES
+                </a>
+            </div><div class="drawHistory"><h2>Draw History</h2><p>Statistics update automatically after each Powerball draw.</p><strong>14:</strong> last drawn on 03-04-2026 <strong>(6 drawings ago)</strong><br/><strong>18:</strong> last drawn on 03-07-2026 <strong>(5 drawings ago)</strong><br/><strong>19:</strong> last drawn on 02-16-2026 <strong>(13 drawings ago)</strong><br/><strong>21:</strong> last drawn on 01-28-2026 <strong>(21 drawings ago)</strong><br/><strong>69:</strong> last drawn on 12-20-2025 <strong>(38 drawings ago)</strong><br/><strong>Powerball<br/>(01):</strong> last drawn on 02-18-2026 <strong>(12 drawings ago)</strong><br/><div class="pbHistory"><a class="pbHistoryBtn" href="/powerball-winning-numbers?stn=Florida">Draw History Archives</a></div><br/></div></div>
+</div> <!-- .latestDraw -->
+</div></div></div></div><div id="sppb-addon-wrapper-1767128893081" class="sppb-addon-wrapper"><div id="sppb-addon-1767128893081" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><!-- =========================
+     Powerball Quick Links Card (Centered + Tight)
+     ========================= -->
+<style>
+  .le-card--quick-links{
+    max-width: 720px;            /* CHG: tighter width */
+    margin: 16px auto 22px;      /* CHG: centered */
+    padding: 14px 16px;          /* CHG: tighter padding */
+    border-radius: 14px;
+    background: #f6f8ff;
+    border: 1px solid rgba(28, 102, 255, 0.15);
+    box-shadow: 0 10px 24px rgba(10, 26, 51, 0.06);
+  }
+
+  .le-card--quick-links h3{
+    margin: 0 0 10px 0;          /* CHG: tighter */
+    font-size: 1.05rem;
+    font-weight: 700;
+    text-align: center;          /* CHG: centered heading */
+    color: #0a1a33;
+  }
+
+  .le-card-links{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;               /* CHG: compact layout */
+    justify-content: center;     /* CHG: centered links */
+    gap: 12px;                   /* CHG: tight spacing */
+    flex-wrap: wrap;
+  }
+
+  .le-card-links li{
+    margin: 0;                   /* CHG: remove vertical looseness */
+  }
+
+  .le-card-links a{
+    display: inline-block;
+    padding: 8px 12px;           /* CHG: button-like compactness */
+    border-radius: 10px;
+    background: #ffffff;
+    border: 1px solid rgba(28, 102, 255, 0.18);
+    text-decoration: none;
+    font-weight: 700;
+    line-height: 1.2;
+  }
+
+  .le-card-links a:hover{
+    text-decoration: underline;
+  }
+
+  /* Mobile: keep it tight */
+  @media (max-width: 520px){
+    .le-card--quick-links{
+      max-width: 92vw;
+      padding: 12px 12px;
+    }
+    .le-card-links{
+      gap: 10px;
+    }
+    .le-card-links a{
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>
+
+<div class="le-card le-card--quick-links">
+  <h3>Powerball Quick Picks &amp; Lucky Numbers</h3>
+
+  <ul class="le-card-links">
+    <li><a href="/powerball/quick-pick-today/">Quick Pick Numbers for Today</a></li>
+    <li><a href="/powerball/lucky-numbers-today/">Lucky Numbers for Today</a></li>
+  </ul>
+</div>
+</div></div></div></div><div id="sppb-addon-wrapper-1725376718116" class="sppb-addon-wrapper"><div id="sppb-addon-1725376718116" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><div style="margin-bottom: 10px; font-size: 13px; line-height: 1.4; text-align: center; max-width: 600px; margin: 0 auto; background-color: #f4faff; padding: 15px; border-radius: 8px; box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);">
+    <p style="font-weight: bold; font-size: 16px; color: #0073e6; margin-top: 0;">How to Use Frequency Table </p>
+    <p style="margin: 10px 0;">This table shows how often each number was drawn in the last  drawings. Sort columns to find patterns:</p>
+    <ul style="list-style-type: none; padding-left: 0; margin: 10px 0;">
+        <li><strong>Number:</strong> Focus on specific numbers.</li>
+        <li><strong>Drawn Times:</strong> See most/least drawn numbers.</li>
+        <li><strong>Last Drawn:</strong> Find recent or overdue numbers.</li>
+        <li><strong>Fav:</strong> Mark your favorites.</li>
+    </ul>
+    <p style="margin-bottom: 0;">Expand the table to analyze more drawings for deeper insights.</p>
+</div>
+</div></div></div></div></div></div></div></div></div></section><section id="section-id-1628368760689" class="sppb-section" ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-1" id="column-wrap-id-1628368760688"><div id="column-id-1628368760688" class="sppb-column" ><div class="sppb-column-addons"></div></div></div><div class="sppb-col-md-5" id="column-wrap-id-1654632584245"><div id="column-id-1654632584245" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1743685810761" class="sppb-addon-wrapper"><div id="sppb-addon-1743685810761" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><style type="text/css">
+h2.original-draw,h2.predicted-draw{background: #0269b1;color: #fff;padding: 10px;font-size: 20px;}
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {content: "\25B4\25BE"}
+#table10,#table11{max-width:100%;width: 100%;}
+#table10 thead,#table11 thead{background: #fff;color: #261d8a !important;}
+#table10 tbody tr,#table11 tbody tr {background: rgba(0,0,0,0);}
+#table10 tbody tr:hover,#table11 tbody tr:hover {background: #b0e8b7;}
+#table10 td,#table10 th,#table11 td,#table11 td {text-align: center;padding:5px;}
+input[type="checkbox"] {transform: scale(1.7) !important;}
+#fq-fav-container {display: block;padding: 10px;border: 3px solid #000;background:rgb(255, 210, 0);}
+#fq-fav-container span {display: inline-block;margin: 0px 5px;font-size: 20px;font-weight: 700;position: relative;background: radial-gradient(circle at 50% 20%,#95c9fd,#036 75%,#333 100%);color: #fff;border-radius: 50%;padding: 3px 7px 7px 7px !important;width: 40px;height: 40px;text-align: center;border: 1px solid #fff;}
+#fq-fav-container span:after{content: " ";display: block;position: absolute;width: 32px;height: 5px;bottom: -10%;left: 50%;transform: translate(-50%);border-radius: 50%;background: radial-gradient(ellipse at center,rgba(51,51,51,.75) 0,rgba(51,51,51,0) 75%);}
+#fq-fav-container strong {font-size: 20px;margin-right: 10px;}
+.roundedblue {position: relative;display: block;margin: 0px auto;background:radial-gradient(circle at 50% 20%,#2ea9ff,#0066ad 75%,#333 100%);color: #fff;border-radius: 50%;padding:3px 7px 5px 7px !important;width: 32px;height: 32px;}
+.roundedblue:after{content: " ";display: block;position: absolute;width: 32px;height: 5px;bottom: -10%;left: 50%;transform: translate(-50%);border-radius: 50%;background: radial-gradient(ellipse at center,rgba(51,51,51,.75) 0,rgba(51,51,51,0) 75%);}
+.freqDrawStats {max-width: 1000px; margin: 0px auto;}
+
+
+
+</style>
+
+
+<div class="main-fq-wrap">
+<div class="original-draw">
+<h2 class="original-draw">Frequencies Past 100 Drawings</h2>
+<div class="searchbar-wrapper">
+
+  <form name="fqsearch" method="POST" action="/powerball-winning-numbers-analysis-tools#table11">
+  <div class="lottery-fields-date">
+  <label>Drawings to analyse: </label> 
+  <select name="nod" id="nod">';
+    <option value="10">10</option><option value="15">15</option><option value="20">20</option><option value="25">25</option><option value="30">30</option><option value="35">35</option><option value="40">40</option><option value="45">45</option><option value="50">50</option><option value="55">55</option><option value="60">60</option><option value="65">65</option><option value="70">70</option><option value="75">75</option><option value="80">80</option><option value="85">85</option><option value="90">90</option><option value="95">95</option><option value="100">100</option><option value="105">105</option><option value="110">110</option><option value="115">115</option><option value="120">120</option><option value="125">125</option><option value="130">130</option><option value="135">135</option><option value="140">140</option><option value="145">145</option><option value="150">150</option><option value="155">155</option><option value="160">160</option><option value="165">165</option><option value="170">170</option><option value="175">175</option><option value="180">180</option><option value="185">185</option><option value="190">190</option><option value="195">195</option><option value="200">200</option><option value="205">205</option><option value="210">210</option><option value="215">215</option><option value="220">220</option><option value="225">225</option><option value="230">230</option><option value="235">235</option><option value="240">240</option><option value="245">245</option><option value="250">250</option><option value="255">255</option><option value="260">260</option><option value="265">265</option><option value="270">270</option><option value="275">275</option><option value="280">280</option><option value="285">285</option><option value="290">290</option><option value="295">295</option><option value="300">300</option><option value="305">305</option><option value="310">310</option><option value="315">315</option><option value="320">320</option><option value="325">325</option><option value="330">330</option><option value="335">335</option><option value="340">340</option><option value="345">345</option><option value="350">350</option><option value="355">355</option><option value="360">360</option><option value="365">365</option><option value="370">370</option><option value="375">375</option><option value="380">380</option><option value="385">385</option><option value="390">390</option><option value="395">395</option><option value="400">400</option><option value="405">405</option><option value="410">410</option><option value="415">415</option><option value="420">420</option><option value="425">425</option><option value="430">430</option><option value="435">435</option><option value="440">440</option><option value="445">445</option><option value="450">450</option><option value="455">455</option><option value="460">460</option><option value="465">465</option><option value="470">470</option><option value="475">475</option><option value="480">480</option><option value="485">485</option><option value="490">490</option><option value="495">495</option><option value="500">500</option><option value="505">505</option><option value="510">510</option><option value="515">515</option><option value="520">520</option><option value="525">525</option><option value="530">530</option><option value="535">535</option><option value="540">540</option><option value="545">545</option><option value="550">550</option><option value="555">555</option><option value="560">560</option><option value="565">565</option><option value="570">570</option><option value="575">575</option><option value="580">580</option><option value="585">585</option><option value="590">590</option><option value="595">595</option><option value="600">600</option><option value="605">605</option><option value="610">610</option><option value="615">615</option><option value="620">620</option><option value="625">625</option><option value="630">630</option><option value="635">635</option><option value="640">640</option><option value="645">645</option><option value="650">650</option><option value="655">655</option><option value="660">660</option><option value="665">665</option><option value="670">670</option><option value="675">675</option><option value="680">680</option><option value="685">685</option><option value="690">690</option><option value="695">695</option><option value="700">700</option>  </select>
+    <input name="fq-search" type="submit" value="ANALYZE" />
+  </div>
+  </form>
+</div> 
+    <table id="table10" class="sortable">
+    <thead>
+        <tr><th>Number</th><th>Drawn Times</th><th>Last Drawn</th><th>Fav</th></tr>
+    </thead>
+    <tbody>
+<tr><td class="roundedblue">01</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="42">42 drws ago</td><td><input type="checkbox" id="input01" name="favonum[]" value="01"></td></tr><tr><td class="roundedblue">02</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="8">8 drws ago</td><td><input type="checkbox" id="input02" name="favonum[]" value="02"></td></tr><tr><td class="roundedblue">03</td><td sorttable_customkey="11">11 X</td><td sorttable_customkey="4">4 drws ago</td><td><input type="checkbox" id="input03" name="favonum[]" value="03"></td></tr><tr><td class="roundedblue">04</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="32">32 drws ago</td><td><input type="checkbox" id="input04" name="favonum[]" value="04"></td></tr><tr><td class="roundedblue">05</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="11">11 drws ago</td><td><input type="checkbox" id="input05" name="favonum[]" value="05"></td></tr><tr><td class="roundedblue">06</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="4">4 drws ago</td><td><input type="checkbox" id="input06" name="favonum[]" value="06"></td></tr><tr><td class="roundedblue">07</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="2">2 drws ago</td><td><input type="checkbox" id="input07" name="favonum[]" value="07"></td></tr><tr><td class="roundedblue">08</td><td sorttable_customkey="10">10 X</td><td sorttable_customkey="20">20 drws ago</td><td><input type="checkbox" id="input08" name="favonum[]" value="08"></td></tr><tr><td class="roundedblue">09</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="3">3 drws ago</td><td><input type="checkbox" id="input09" name="favonum[]" value="09"></td></tr><tr><td class="roundedblue">10</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="2">2 drws ago</td><td><input type="checkbox" id="input10" name="favonum[]" value="10"></td></tr><tr><td class="roundedblue">11</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="11">11 drws ago</td><td><input type="checkbox" id="input11" name="favonum[]" value="11"></td></tr><tr><td class="roundedblue">12</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="54">54 drws ago</td><td><input type="checkbox" id="input12" name="favonum[]" value="12"></td></tr><tr><td class="roundedblue">13</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="45">45 drws ago</td><td><input type="checkbox" id="input13" name="favonum[]" value="13"></td></tr><tr><td class="roundedblue">14</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="1">In last drw</td><td><input type="checkbox" id="input14" name="favonum[]" value="14"></td></tr><tr><td class="roundedblue">15</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="31">31 drws ago</td><td><input type="checkbox" id="input15" name="favonum[]" value="15"></td></tr><tr><td class="roundedblue">16</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="14">14 drws ago</td><td><input type="checkbox" id="input16" name="favonum[]" value="16"></td></tr><tr><td class="roundedblue">17</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="6">6 drws ago</td><td><input type="checkbox" id="input17" name="favonum[]" value="17"></td></tr><tr><td class="roundedblue">18</td><td sorttable_customkey="13">13 X</td><td sorttable_customkey="1">In last drw</td><td><input type="checkbox" id="input18" name="favonum[]" value="18"></td></tr><tr><td class="roundedblue">19</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="1">In last drw</td><td><input type="checkbox" id="input19" name="favonum[]" value="19"></td></tr><tr><td class="roundedblue">20</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="2">2 drws ago</td><td><input type="checkbox" id="input20" name="favonum[]" value="20"></td></tr><tr><td class="roundedblue">21</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="1">In last drw</td><td><input type="checkbox" id="input21" name="favonum[]" value="21"></td></tr><tr><td class="roundedblue">22</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="5">5 drws ago</td><td><input type="checkbox" id="input22" name="favonum[]" value="22"></td></tr><tr><td class="roundedblue">23</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="5">5 drws ago</td><td><input type="checkbox" id="input23" name="favonum[]" value="23"></td></tr><tr><td class="roundedblue">24</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="28">28 drws ago</td><td><input type="checkbox" id="input24" name="favonum[]" value="24"></td></tr><tr><td class="roundedblue">25</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="18">18 drws ago</td><td><input type="checkbox" id="input25" name="favonum[]" value="25"></td></tr><tr><td class="roundedblue">26</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="25">25 drws ago</td><td><input type="checkbox" id="input26" name="favonum[]" value="26"></td></tr><tr><td class="roundedblue">27</td><td sorttable_customkey="10">10 X</td><td sorttable_customkey="12">12 drws ago</td><td><input type="checkbox" id="input27" name="favonum[]" value="27"></td></tr><tr><td class="roundedblue">28</td><td sorttable_customkey="17">17 X</td><td sorttable_customkey="5">5 drws ago</td><td><input type="checkbox" id="input28" name="favonum[]" value="28"></td></tr><tr><td class="roundedblue">29</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="11">11 drws ago</td><td><input type="checkbox" id="input29" name="favonum[]" value="29"></td></tr><tr><td class="roundedblue">30</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="3">3 drws ago</td><td><input type="checkbox" id="input30" name="favonum[]" value="30"></td></tr><tr><td class="roundedblue">31</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="20">20 drws ago</td><td><input type="checkbox" id="input31" name="favonum[]" value="31"></td></tr><tr><td class="roundedblue">32</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="44">44 drws ago</td><td><input type="checkbox" id="input32" name="favonum[]" value="32"></td></tr><tr><td class="roundedblue">33</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="13">13 drws ago</td><td><input type="checkbox" id="input33" name="favonum[]" value="33"></td></tr><tr><td class="roundedblue">34</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="26">26 drws ago</td><td><input type="checkbox" id="input34" name="favonum[]" value="34"></td></tr><tr><td class="roundedblue">35</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="9">9 drws ago</td><td><input type="checkbox" id="input35" name="favonum[]" value="35"></td></tr><tr><td class="roundedblue">36</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="5">5 drws ago</td><td><input type="checkbox" id="input36" name="favonum[]" value="36"></td></tr><tr><td class="roundedblue">37</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="19">19 drws ago</td><td><input type="checkbox" id="input37" name="favonum[]" value="37"></td></tr><tr><td class="roundedblue">38</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="8">8 drws ago</td><td><input type="checkbox" id="input38" name="favonum[]" value="38"></td></tr><tr><td class="roundedblue">39</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="28">28 drws ago</td><td><input type="checkbox" id="input39" name="favonum[]" value="39"></td></tr><tr><td class="roundedblue">40</td><td sorttable_customkey="10">10 X</td><td sorttable_customkey="16">16 drws ago</td><td><input type="checkbox" id="input40" name="favonum[]" value="40"></td></tr><tr><td class="roundedblue">41</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="38">38 drws ago</td><td><input type="checkbox" id="input41" name="favonum[]" value="41"></td></tr><tr><td class="roundedblue">42</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="3">3 drws ago</td><td><input type="checkbox" id="input42" name="favonum[]" value="42"></td></tr><tr><td class="roundedblue">43</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="15">15 drws ago</td><td><input type="checkbox" id="input43" name="favonum[]" value="43"></td></tr><tr><td class="roundedblue">44</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="45">45 drws ago</td><td><input type="checkbox" id="input44" name="favonum[]" value="44"></td></tr><tr><td class="roundedblue">45</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="29">29 drws ago</td><td><input type="checkbox" id="input45" name="favonum[]" value="45"></td></tr><tr><td class="roundedblue">46</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="22">22 drws ago</td><td><input type="checkbox" id="input46" name="favonum[]" value="46"></td></tr><tr><td class="roundedblue">47</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="2">2 drws ago</td><td><input type="checkbox" id="input47" name="favonum[]" value="47"></td></tr><tr><td class="roundedblue">48</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="12">12 drws ago</td><td><input type="checkbox" id="input48" name="favonum[]" value="48"></td></tr><tr><td class="roundedblue">49</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="12">12 drws ago</td><td><input type="checkbox" id="input49" name="favonum[]" value="49"></td></tr><tr><td class="roundedblue">50</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="3">3 drws ago</td><td><input type="checkbox" id="input50" name="favonum[]" value="50"></td></tr><tr><td class="roundedblue">51</td><td sorttable_customkey="10">10 X</td><td sorttable_customkey="18">18 drws ago</td><td><input type="checkbox" id="input51" name="favonum[]" value="51"></td></tr><tr><td class="roundedblue">52</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="2">2 drws ago</td><td><input type="checkbox" id="input52" name="favonum[]" value="52"></td></tr><tr><td class="roundedblue">53</td><td sorttable_customkey="12">12 X</td><td sorttable_customkey="25">25 drws ago</td><td><input type="checkbox" id="input53" name="favonum[]" value="53"></td></tr><tr><td class="roundedblue">54</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="5">5 drws ago</td><td><input type="checkbox" id="input54" name="favonum[]" value="54"></td></tr><tr><td class="roundedblue">55</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="4">4 drws ago</td><td><input type="checkbox" id="input55" name="favonum[]" value="55"></td></tr><tr><td class="roundedblue">56</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="7">7 drws ago</td><td><input type="checkbox" id="input56" name="favonum[]" value="56"></td></tr><tr><td class="roundedblue">57</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="27">27 drws ago</td><td><input type="checkbox" id="input57" name="favonum[]" value="57"></td></tr><tr><td class="roundedblue">58</td><td sorttable_customkey="10">10 X</td><td sorttable_customkey="4">4 drws ago</td><td><input type="checkbox" id="input58" name="favonum[]" value="58"></td></tr><tr><td class="roundedblue">59</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="29">29 drws ago</td><td><input type="checkbox" id="input59" name="favonum[]" value="59"></td></tr><tr><td class="roundedblue">60</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="15">15 drws ago</td><td><input type="checkbox" id="input60" name="favonum[]" value="60"></td></tr><tr><td class="roundedblue">61</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="24">24 drws ago</td><td><input type="checkbox" id="input61" name="favonum[]" value="61"></td></tr><tr><td class="roundedblue">62</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="8">8 drws ago</td><td><input type="checkbox" id="input62" name="favonum[]" value="62"></td></tr><tr><td class="roundedblue">63</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="4">4 drws ago</td><td><input type="checkbox" id="input63" name="favonum[]" value="63"></td></tr><tr><td class="roundedblue">64</td><td sorttable_customkey="12">12 X</td><td sorttable_customkey="10">10 drws ago</td><td><input type="checkbox" id="input64" name="favonum[]" value="64"></td></tr><tr><td class="roundedblue">65</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="9">9 drws ago</td><td><input type="checkbox" id="input65" name="favonum[]" value="65"></td></tr><tr><td class="roundedblue">66</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="13">13 drws ago</td><td><input type="checkbox" id="input66" name="favonum[]" value="66"></td></tr><tr><td class="roundedblue">67</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="63">63 drws ago</td><td><input type="checkbox" id="input67" name="favonum[]" value="67"></td></tr><tr><td class="roundedblue">68</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="6">6 drws ago</td><td><input type="checkbox" id="input68" name="favonum[]" value="68"></td></tr><tr><td class="roundedblue">69</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="1">In last drw</td><td><input type="checkbox" id="input69" name="favonum[]" value="69"></td></tr>    </tbody>
+    </table>
+</div> 
+<div class="predicted-draw">
+</div> <div id="fq-fav-container"><strong>Favorites Selection: </strong></div>
+</div> 
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery('input[name="favonum[]"]').change(function () {
+  var inputVal = jQuery(this).val() + ' ';
+  var className = inputVal.replace(/ /g, '_');
+
+  if (jQuery(this).prop('checked')) {  //which checkbox was checked
+    jQuery("#fq-fav-container").append('<span class="span_' + className + '">' + inputVal + '</span>');
+  } else {
+    jQuery('.span_'+className).remove();
+  }
+});
+ })
+</script></div></div></div></div></div></div></div><div class="sppb-col-md-5" id="column-wrap-id-1661539759010"><div id="column-id-1661539759010" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1628373013723" class="sppb-addon-wrapper"><div id="sppb-addon-1628373013723" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><style type="text/css">
+h2.original-pdraw,h2.predicted-pdraw{background: #c10909;color: #fff;padding: 10px;font-size:20px}
+table.sortable th:not(.sorttable_sorted):not(.sorttable_sorted_reverse):not(.sorttable_nosort):after {content: "\25B4\25BE"}
+// #table12 thead,#table13 thead{background: #c10909;color: #fff;}
+#table12 thead,#table13 thead{background: #fff;color: #0d4973;}
+#table12,#table13{max-width:100%;width:100%}
+#table12 tbody tr,#table13 tbody tr {background: rgba(0,0,0,0);}
+#table12 tbody tr:hover,#table13 tbody tr:hover {background: #b0e8b7;}
+#table12 td,#table12 th,#table13 td,#table13 th {text-align: center;padding:5px;}
+input[type="checkbox"] {transform: scale(1.7) !important;}
+#fqp-fav-container {display: block;padding: 10px;border: 3px solid #000;background:rgb(255, 210, 0);}
+#fqp-fav-container span {display: inline-block;margin: 0px 5px;font-size: 20px;font-weight: 700;position: relative;background:radial-gradient(circle at 50% 20%,#ffb1b1,#ee3030 75%,#333 100%);color: #fff;border-radius: 50%;padding: 7px 7px 7px 7px !important;width: 40px;height: 40px;text-align: center;border: 1px solid #fff;}
+#fqp-fav-container span:after{content: " ";display: block;position: absolute;width: 32px;height: 5px;bottom: -10%;left: 50%;transform: translate(-50%);border-radius: 50%;background: radial-gradient(ellipse at center,rgba(51,51,51,.75) 0,rgba(51,51,51,0) 75%);}
+#fqp-fav-container strong {font-size: 20px;margin-right: 10px;}
+.roundedred {position: relative;display: block;margin: 0px auto;background:radial-gradient(circle at 50% 20%,#f97f92,#a3071e 75%,#333 100%);color: #fff;border-radius: 50%;padding:3px 7px 5px 7px !important;width: 32px;height: 32px;}
+.roundedred:after{content: " ";display: block;position: absolute;width: 32px;height: 5px;bottom: -10%;left: 50%;transform: translate(-50%);border-radius: 50%;background: radial-gradient(ellipse at center,rgba(51,51,51,.75) 0,rgba(51,51,51,0) 75%);}
+.freqDrawStats {max-width: 1000px; margin: 0px auto;}
+
+
+
+</style>
+
+
+<div class="main-fqp-wrap">
+<div class="original-pdraw">
+<h2 class="original-pdraw">Powerball Frequencies Past 100 Drawings</h2>
+<div class="psearchbar-wrapper">
+
+  <form name="pfqsearch" method="POST" action="/powerball-winning-numbers-analysis-tools#table13">
+  <div class="lottery-fields-date">
+  <label>Drawings to analyse: </label> 
+  <select name="pnod" id="pnod">';
+    <option value="10">10</option><option value="15">15</option><option value="20">20</option><option value="25">25</option><option value="30">30</option><option value="35">35</option><option value="40">40</option><option value="45">45</option><option value="50">50</option><option value="55">55</option><option value="60">60</option><option value="65">65</option><option value="70">70</option><option value="75">75</option><option value="80">80</option><option value="85">85</option><option value="90">90</option><option value="95">95</option><option value="100">100</option><option value="105">105</option><option value="110">110</option><option value="115">115</option><option value="120">120</option><option value="125">125</option><option value="130">130</option><option value="135">135</option><option value="140">140</option><option value="145">145</option><option value="150">150</option><option value="155">155</option><option value="160">160</option><option value="165">165</option><option value="170">170</option><option value="175">175</option><option value="180">180</option><option value="185">185</option><option value="190">190</option><option value="195">195</option><option value="200">200</option><option value="205">205</option><option value="210">210</option><option value="215">215</option><option value="220">220</option><option value="225">225</option><option value="230">230</option><option value="235">235</option><option value="240">240</option><option value="245">245</option><option value="250">250</option><option value="255">255</option><option value="260">260</option><option value="265">265</option><option value="270">270</option><option value="275">275</option><option value="280">280</option><option value="285">285</option><option value="290">290</option><option value="295">295</option><option value="300">300</option><option value="305">305</option><option value="310">310</option><option value="315">315</option><option value="320">320</option><option value="325">325</option><option value="330">330</option><option value="335">335</option><option value="340">340</option><option value="345">345</option><option value="350">350</option><option value="355">355</option><option value="360">360</option><option value="365">365</option><option value="370">370</option><option value="375">375</option><option value="380">380</option><option value="385">385</option><option value="390">390</option><option value="395">395</option><option value="400">400</option><option value="405">405</option><option value="410">410</option><option value="415">415</option><option value="420">420</option><option value="425">425</option><option value="430">430</option><option value="435">435</option><option value="440">440</option><option value="445">445</option><option value="450">450</option><option value="455">455</option><option value="460">460</option><option value="465">465</option><option value="470">470</option><option value="475">475</option><option value="480">480</option><option value="485">485</option><option value="490">490</option><option value="495">495</option><option value="500">500</option><option value="505">505</option><option value="510">510</option><option value="515">515</option><option value="520">520</option><option value="525">525</option><option value="530">530</option><option value="535">535</option><option value="540">540</option><option value="545">545</option><option value="550">550</option><option value="555">555</option><option value="560">560</option><option value="565">565</option><option value="570">570</option><option value="575">575</option><option value="580">580</option><option value="585">585</option><option value="590">590</option><option value="595">595</option><option value="600">600</option><option value="605">605</option><option value="610">610</option><option value="615">615</option><option value="620">620</option><option value="625">625</option><option value="630">630</option><option value="635">635</option><option value="640">640</option><option value="645">645</option><option value="650">650</option><option value="655">655</option><option value="660">660</option><option value="665">665</option><option value="670">670</option><option value="675">675</option><option value="680">680</option><option value="685">685</option><option value="690">690</option><option value="695">695</option><option value="700">700</option>  </select>
+    <input name="pfq-search" type="submit" value="SEARCH" />
+  </div>
+  </form>
+</div> 
+    <table id="table12" class="sortable">
+    <thead>
+        <tr><th>Number</th><th>Drawn Times</th><th>Last Drawn</th><th>Fav</th></tr>
+    </thead>
+    <tbody>
+<tr><td class="roundedred">01</td><td sorttable_customkey="8">8 X</td><td sorttable_customkey="1">In last drw</td><td><input type="checkbox" id="input01" name="pfavonum[]" value="01"></td></tr><tr><td class="roundedred">02</td><td sorttable_customkey="6">6 X</td><td sorttable_customkey="28">28 drws ago</td><td><input type="checkbox" id="input02" name="pfavonum[]" value="02"></td></tr><tr><td class="roundedred">03</td><td sorttable_customkey="2">2 X</td><td sorttable_customkey="49">49 drws ago</td><td><input type="checkbox" id="input03" name="pfavonum[]" value="03"></td></tr><tr><td class="roundedred">04</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="20">20 drws ago</td><td><input type="checkbox" id="input04" name="pfavonum[]" value="04"></td></tr><tr><td class="roundedred">05</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="16">16 drws ago</td><td><input type="checkbox" id="input05" name="pfavonum[]" value="05"></td></tr><tr><td class="roundedred">06</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="7">7 drws ago</td><td><input type="checkbox" id="input06" name="pfavonum[]" value="06"></td></tr><tr><td class="roundedred">07</td><td sorttable_customkey="2">2 X</td><td sorttable_customkey="38">38 drws ago</td><td><input type="checkbox" id="input07" name="pfavonum[]" value="07"></td></tr><tr><td class="roundedred">08</td><td sorttable_customkey="1">1 X</td><td sorttable_customkey="100">100 drws ago</td><td><input type="checkbox" id="input08" name="pfavonum[]" value="08"></td></tr><tr><td class="roundedred">09</td><td sorttable_customkey="2">2 X</td><td sorttable_customkey="83">83 drws ago</td><td><input type="checkbox" id="input09" name="pfavonum[]" value="09"></td></tr><tr><td class="roundedred">10</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="9">9 drws ago</td><td><input type="checkbox" id="input10" name="pfavonum[]" value="10"></td></tr><tr><td class="roundedred">11</td><td sorttable_customkey="2">2 X</td><td sorttable_customkey="22">22 drws ago</td><td><input type="checkbox" id="input11" name="pfavonum[]" value="11"></td></tr><tr><td class="roundedred">12</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="4">4 drws ago</td><td><input type="checkbox" id="input12" name="pfavonum[]" value="12"></td></tr><tr><td class="roundedred">13</td><td sorttable_customkey="1">1 X</td><td sorttable_customkey="5">5 drws ago</td><td><input type="checkbox" id="input13" name="pfavonum[]" value="13"></td></tr><tr><td class="roundedred">14</td><td sorttable_customkey="7">7 X</td><td sorttable_customkey="27">27 drws ago</td><td><input type="checkbox" id="input14" name="pfavonum[]" value="14"></td></tr><tr><td class="roundedred">15</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="19">19 drws ago</td><td><input type="checkbox" id="input15" name="pfavonum[]" value="15"></td></tr><tr><td class="roundedred">16</td><td sorttable_customkey="2">2 X</td><td sorttable_customkey="42">42 drws ago</td><td><input type="checkbox" id="input16" name="pfavonum[]" value="16"></td></tr><tr><td class="roundedred">17</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="26">26 drws ago</td><td><input type="checkbox" id="input17" name="pfavonum[]" value="17"></td></tr><tr><td class="roundedred">18</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="23">23 drws ago</td><td><input type="checkbox" id="input18" name="pfavonum[]" value="18"></td></tr><tr><td class="roundedred">19</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="37">37 drws ago</td><td><input type="checkbox" id="input19" name="pfavonum[]" value="19"></td></tr><tr><td class="roundedred">20</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="2">2 drws ago</td><td><input type="checkbox" id="input20" name="pfavonum[]" value="20"></td></tr><tr><td class="roundedred">21</td><td sorttable_customkey="5">5 X</td><td sorttable_customkey="3">3 drws ago</td><td><input type="checkbox" id="input21" name="pfavonum[]" value="21"></td></tr><tr><td class="roundedred">22</td><td sorttable_customkey="4">4 X</td><td sorttable_customkey="43">43 drws ago</td><td><input type="checkbox" id="input22" name="pfavonum[]" value="22"></td></tr><tr><td class="roundedred">23</td><td sorttable_customkey="9">9 X</td><td sorttable_customkey="10">10 drws ago</td><td><input type="checkbox" id="input23" name="pfavonum[]" value="23"></td></tr><tr><td class="roundedred">24</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="6">6 drws ago</td><td><input type="checkbox" id="input24" name="pfavonum[]" value="24"></td></tr><tr><td class="roundedred">25</td><td sorttable_customkey="1">1 X</td><td sorttable_customkey="88">88 drws ago</td><td><input type="checkbox" id="input25" name="pfavonum[]" value="25"></td></tr><tr><td class="roundedred">26</td><td sorttable_customkey="3">3 X</td><td sorttable_customkey="34">34 drws ago</td><td><input type="checkbox" id="input26" name="pfavonum[]" value="26"></td></tr>    </tbody>
+    </table>
+</div> 
+<div class="predicted-pdraw">
+</div> <div id="fqp-fav-container"><strong>Favorites Selection: </strong></div>
+</div> 
+
+<script type="text/javascript">
+jQuery(document).ready(function() {
+jQuery('input[name="pfavonum[]"]').change(function () {
+  var pinputVal = jQuery(this).val() + ' ';
+  var pclassName = pinputVal.replace(/ /g, '_');
+
+  if (jQuery(this).prop('checked')) {  //which checkbox was checked
+    jQuery("#fqp-fav-container").append('<span class="span_' + pclassName + '">' + pinputVal + '</span>');
+  } else {
+    jQuery('.span_'+pclassName).remove();
+  }
+});
+ })
+</script></div></div></div></div></div></div></div><div class="sppb-col-md-1" id="column-wrap-id-1661539759011"><div id="column-id-1661539759011" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section>
+			</div>
+</div>
+
+			</div>
+</main>
+</div>
+				
+	</section>
+
+<footer id="sp-footer" >
+
+						<div class="container">
+				<div class="container-inner">
+			
+	
+<div class="row">
+	<div id="sp-footer1" class="col-lg-12 "><div class="sp-column "><div class="sp-module "><div class="sp-module-content"><div class="mod-sppagebuilder  sp-page-builder" data-module_id="95">
+	<div class="page-content">
+		<div id="section-id-1629198175335" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-4 sppp-column-vertical-align" id="column-wrap-id-1629198175333"><div id="column-id-1629198175333" class="sppb-column sppb-align-items-center" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1629198175338" class="sppb-addon-wrapper"><div id="sppb-addon-1629198175338" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p style="font-size: 14px;"><span style="color: #999999;">Comments and Feedback to: oscar@lottoexpert.net</span><br /><br /><span style="color: #999999;">©1988-2026 LotteExpert.net - Da Vinci Entertainment Holdings LLC&nbsp; ALL RIGHTS RESERVED</span></p></div></div><style type="text/css">#sppb-addon-wrapper-1629198175338 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1629198175338 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1629198175338 {
+}
+#sppb-addon-1629198175338.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1629198175338 {}}@media (max-width: 767px) {#sppb-addon-1629198175338 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div><div id="sppb-addon-wrapper-1629199616869" class="sppb-addon-wrapper"><div id="sppb-addon-1629199616869" class="clearfix "     ><div class="sppb-addon sppb-addon-raw-html "><div class="sppb-addon-content"><style type="text/css">
+#sp-footer1 .sppb-addon.sppb-addon-accordion {position: absolute;top: -80px;right: -50px;}
+p.fterms {text-align: right;}
+</style></div></div><style type="text/css">#sppb-addon-wrapper-1629199616869 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1629199616869 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1629199616869 {
+}
+#sppb-addon-1629199616869.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1629199616869 {}}@media (max-width: 767px) {#sppb-addon-1629199616869 {}}</style></div></div></div></div></div><div class="sppb-col-md-4 sppp-column-vertical-align" id="column-wrap-id-1629198175334"><div id="column-id-1629198175334" class="sppb-column sppb-align-items-center" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1629292321552" class="sppb-addon-wrapper"><div id="sppb-addon-1629292321552" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p class="fterms"><span style="color: #ffffff; font-size: 18pt;"><a href="/terms-of-use" style="color: #ffffff;">Terms of Service</a></span><br /><span style="color: #ffffff; font-size: 18pt;"><a href="/privacy-policy/" style="color: #ffffff;">Privacy Policy</a></span></p></div></div><style type="text/css">#sppb-addon-wrapper-1629292321552 {
+margin:0px 0px 0px 0px;}
+#sppb-addon-1629292321552 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1629292321552 {
+}
+#sppb-addon-1629292321552.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1629292321552 {}}@media (max-width: 767px) {#sppb-addon-1629292321552 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div><div class="sppb-col-md-4" id="column-wrap-id-1762881898043"><div id="column-id-1762881898043" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1688594480806" class="sppb-addon-wrapper"><div id="sppb-addon-1688594480806" class="clearfix "     ><div class="sppb-addon sppb-addon-module "><div class="sppb-addon-content"><div class="rsformreport">
+	<form method="post"  id="userForm" class="formResponsive" action="https://lottoexpert.net/powerball-winning-numbers-analysis-tools?stn=Florida"><h2>Comments or Suggestions</h2>
+<div id="rsform_error_1" style="display: none;"></div>
+<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+<div class="formContainer formHorizontal" id="rsform_1_page_0">
+	<div class="formRow">
+		<div class="formSpan12">
+			<div class="rsform-block rsform-block-header rsform-type-freetext">
+					<p><span style="color:#ffffff;">
+We value precision and transparency. Share your experience with SKAI—what delivered value, what could be clearer, and how we can improve. Your feedback directly informs our development roadmap.
+</span></p>
+
+			</div>
+		</div>
+	</div>
+	<div class="formRow">
+		<div class="formSpan6">
+			<div class="rsform-block rsform-block-fullname rsform-type-textbox">
+				<label class="formControlLabel" for="FullName">Name</label>
+				<div class="formControls">
+					<div class="formBody">
+						<input type="text" value="" size="20" placeholder="Your name" name="form[FullName]" id="FullName" class="rsform-input-box" />
+						<span class="formValidation"><span id="component1" class="formNoError">Please type your name.</span></span>
+						<p class="formDescription"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="formSpan6">
+			<div class="rsform-block rsform-block-email rsform-type-textbox">
+				<label class="formControlLabel" for="Email">E-mail<strong class="formRequired">(*)</strong></label>
+				<div class="formControls">
+					<div class="formBody">
+						<input type="text" value="" size="20" placeholder="Email" name="form[Email]" id="Email" class="rsform-input-box" aria-required="true" />
+						<span class="formValidation"><span id="component3" class="formNoError">Thank you</span></span>
+						<p class="formDescription"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="formRow">
+		<div class="formSpan12">
+			<div class="rsform-block rsform-block-comments rsform-type-textarea">
+				<label class="formControlLabel" for="comments">Feedback<strong class="formRequired">(*)</strong></label>
+				<div class="formControls">
+					<div class="formBody">
+						<textarea cols="50" rows="5" placeholder="Tell us what you experienced and any steps that led to it. The more detail you share, the better we can understand and improve SKAI for you.&quot;" name="form[comments]" id="comments" class="rsform-text-box" aria-required="true"></textarea>
+						<span class="formValidation"><span id="component23" class="formNoError">Tell us what you experienced and any steps that led to it. The more detail you share, the better we can understand and improve SKAI for you.
+</span></span>
+						<p class="formDescription"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="formRow">
+		<div class="formSpan12">
+			<div class="rsform-block rsform-block-antispam-intro rsform-type-freetext">
+					What is the color of the Sky?
+			</div>
+			<div class="rsform-block rsform-block-what-is-the-color-of-the-sky rsform-type-selectlist">
+				<label class="formControlLabel" for="What_is_the_Color_of_the_Sky">What is the Color of the Sky?<strong class="formRequired">(*)</strong></label>
+				<div class="formControls">
+					<div class="formBody">
+						<select name="form[What_is_the_Color_of_the_Sky][]" id="What_is_the_Color_of_the_Sky" placeholder="anti spam" class="rsform-select-box" aria-required="true"><option value="Black">Black</option><option value="Purple ">Purple </option><option value="Yellow">Yellow</option><option value="Blue">Blue</option><option value="Pink">Pink</option></select>
+						<span class="formValidation"><span id="component43" class="formNoError">Invalid Input</span></span>
+						<p class="formDescription"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="formRow">
+		<div class="formSpan6">
+		</div>
+		<div class="formSpan6">
+			<div class="rsform-block rsform-block-submit rsform-type-submitbutton">
+				<label class="formControlLabel"></label>
+				<div class="formControls">
+					<div class="formBody">
+						<button type="submit" name="form[Submit]" id="Submit" class="rsform-submit-button" >Submit</button> <button type="reset" class="rsform-reset-button" onclick="RSFormPro.resetElements(1)" >Reset</button>
+						<span class="formValidation"></span>
+						<p class="formDescription"></p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+					<input type="hidden" name="form[currentURL]" id="currentURL" value="https://lottoexpert.net/powerball-winning-numbers-analysis-tools?stn=Florida" />
+					<input type="hidden" name="form[referringURL]" id="referringURL" value="https://lottoexpert.net/" />
+					<input type="hidden" name="form[email_address]" id="email_address" value="" />
+					<input type="hidden" name="g-recaptcha-response" id="g-recaptcha-response-1" value=""><input type="hidden" name="form[formId]" value="1"/><input type="hidden" name="3b9233bdd187b0aa7e65a0dd6832f7a7" value="1"></form></div></div></div><style type="text/css">#sppb-addon-wrapper-1688594480806 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1688594480806 {
+	background-color: #686868;
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1688594480806 {
+}
+#sppb-addon-1688594480806.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1688594480806 {}}@media (max-width: 767px) {#sppb-addon-1688594480806 {}}</style></div></div></div></div></div></div></div></div><div id="section-id-1658839817239" class="sppb-section" ><div class="sppb-container-inner"><div class="sppb-row"><div class="sppb-col-md-12" id="column-wrap-id-1658839817238"><div id="column-id-1658839817238" class="sppb-column" ><div class="sppb-column-addons"><div id="sppb-addon-wrapper-1658839817242" class="sppb-addon-wrapper"><div id="sppb-addon-1658839817242" class="clearfix "     ><div class="sppb-addon sppb-addon-text-block  "><div class="sppb-addon-content"><p data-start="1434" data-end="1448"><span style="color: #ffffff;"><strong data-start="1434" data-end="1448">Disclaimer</strong></span></p>
+<p data-start="1450" data-end="1812"><span style="color: #ffffff;">LottoExpert.net provides informational and analytical content related to lottery games for educational and entertainment purposes only. Any strategies, methods, analyses, statistical models, or AI-driven insights presented on this website are intended solely as general guidance and do not constitute gambling advice, financial advice, or a guarantee of winning.</span></p>
+<p data-start="1814" data-end="2351"><span style="color: #ffffff;">While every effort is made to ensure the accuracy and timeliness of the information provided, Da Vinci Entertainment Holdings LLC and LottoExpert.net make no representations or warranties, express or implied, regarding the completeness, reliability, or accuracy of any content. Lottery outcomes are determined by chance, and past results, trends, or statistical analyses do not predict future results. No warranty or assurance is given that the use of any information, tools, or systems on this website will result in prizes or winnings.</span></p>
+<p data-start="2353" data-end="2646"><span style="color: #ffffff;">LottoExpert.net and Da Vinci Entertainment Holdings LLC are not affiliated with, associated with, authorized by, or endorsed by any official lottery operators, commissions, or governing bodies. All trademarks, lottery names, and logos referenced remain the property of their respective owners.</span></p>
+<p data-start="2648" data-end="2983"><span style="color: #ffffff;">The content on this website is not intended to encourage or promote participation in any lottery. Users are solely responsible for ensuring compliance with all applicable local, state, national, and international laws and regulations governing lottery participation. Participation in lotteries may be restricted by age or jurisdiction.</span></p>
+<p data-start="2985" data-end="3208"><span style="color: #ffffff;">External links provided on LottoExpert.net are offered for convenience only. The inclusion of any link does not imply endorsement, approval, or responsibility for the content, accuracy, or practices of third-party websites.</span></p>
+<p data-start="3210" data-end="3462"><span style="color: #ffffff;">By using this website, you agree that Da Vinci Entertainment Holdings LLC and LottoExpert.net shall not be held liable for any losses, damages, or consequences arising from the use of or reliance upon any information, tools, or content provided herein.</span></p></div></div><style type="text/css">#sppb-addon-wrapper-1658839817242 {
+margin:0px 0px 30px 0px;}
+#sppb-addon-1658839817242 {
+	box-shadow: 0 0 0 0 #ffffff;
+}
+#sppb-addon-1658839817242 {
+}
+#sppb-addon-1658839817242.sppb-element-loaded {
+}
+@media (min-width: 768px) and (max-width: 991px) {#sppb-addon-1658839817242 {}}@media (max-width: 767px) {#sppb-addon-1658839817242 {}}</style><style type="text/css">@media (min-width: 768px) and (max-width: 991px) {}@media (max-width: 767px) {}</style></div></div></div></div></div></div></div></div><style type="text/css">.sp-page-builder .page-content #section-id-1629198175335{padding-top:10px;padding-right:0px;padding-bottom:20px;padding-left:0px;margin-top:0px;margin-right:0px;margin-bottom:0px;margin-left:0px;box-shadow:0px 0px 0px 0px #dbdbf4;}#column-id-1629198175333{box-shadow:0 0 0 0 #fff;}#column-id-1629198175334{box-shadow:0 0 0 0 #fff;}.sp-page-builder .page-content #section-id-1658839817239{padding:50px 0px 50px 0px;margin:0px 0px 0px 0px;box-shadow:0 0 0 0 #ffffff;}#column-id-1658839817238{box-shadow:0 0 0 0 #fff;}</style>	</div>
+</div>
+</div></div><span class="sp-copyright">©1988-2026 LottoExpert.net - Da Vinci Entertainment Holdings LLC  ALL RIGHTS RESERVED</span></div></div></div>
+							</div>
+			</div>
+			
+	</footer>
+			</div>
+		</div>
+
+		<!-- Off Canvas Menu -->
+		<div class="offcanvas-overlay"></div>
+		<!-- Rendering the offcanvas style -->
+		<!-- If canvas style selected then render the style -->
+		<!-- otherwise (for old templates) attach the offcanvas module position -->
+					<div class="offcanvas-menu">
+	<div class="d-flex align-items-center p-3 pt-4">
+				<a href="#" class="close-offcanvas" aria-label="Close Off-canvas">
+			<div class="burger-icon">
+				<span></span>
+				<span></span>
+				<span></span>
+			</div>
+		</a>
+	</div>
+	
+	<div class="offcanvas-inner">
+		<div class="d-flex header-modules mb-3">
+							<div class="sp-module "><div class="sp-module-content">
+<form class="mod-finder js-finder-searchform form-search" action="/component/finder/search?Itemid=101" method="get" role="search">
+    <label for="mod-finder-searchword0" class="visually-hidden finder">Search</label><input type="text" name="q" id="mod-finder-searchword0" class="js-finder-search-query form-control" value="" placeholder="Search &hellip;">
+            <input type="hidden" name="Itemid" value="101"></form>
+</div></div>			
+							<div class="sp-module">
+<div class="sp-profile-wrapper">
+<a href="#" class="sp-sign-in"><i class="fas fa-user-circle" aria-hidden="true"></i> <span class="user-text d-none d-xl-inline-block"> Oscar Acosta</span> <i class="fas fa-chevron-down arrow-icon" aria-hidden="true"></i></a>
+<ul class="sp-profile-dropdown">
+	<li class="sp-profile-dropdown-item">
+		<a href="/component/users/profile?Itemid=101">Profile</a>
+	</li>
+	<li class="sp-profile-dropdown-item">
+		<a href="/membership/logout">Logout</a>
+	</li>
+</ul>
+</div>
+</div>					</div>
+		
+					<div class="sp-module _menu"><h3 class="sp-module-title">Main Menu</h3><div class="sp-module-content"><ul class="menu nav-pills">
+<li class="item-307"><a href="/what-is-wheeling" >Wheeling?</a></li><li class="item-296 menu-deeper menu-parent"><span class="nav-header ">Picking Numbers<span class="menu-toggler"></span></span><ul class="menu-child"><li class="item-297"><a href="/picking-winning-numbers/how-to-pick-numbers" >How to Pick Numbers</a></li><li class="item-302"><a href="/picking-winning-numbers/how-to-play-powerball" >How to Play Powerball</a></li><li class="item-303"><a href="/picking-winning-numbers/how-to-play-mega-millions" >How to Play Mega Millions</a></li><li class="item-304"><a href="/picking-winning-numbers/advice-from-the-web-on-picking-winning-lottery-numbers" >Advice from the Web on Picking winning Lottery Numbers</a></li><li class="item-326"><a href="/picking-winning-numbers/how-to-win-powerball-or-mega-millions-lottery" >How to win Powerball or Mega Millions Lottery! </a></li><li class="item-1217"><a href="/picking-winning-numbers/matrix-random-number-generator" >Matrix Random Number Generator</a></li><li class="item-305 menu-divider menu-deeper menu-parent"><span class="menu-separator ">Artificial Intelligence<span class="menu-toggler"></span></span>
+<ul class="menu-child"><li class="item-306"><a href="/picking-winning-numbers/artificial-intelligence/florida-fantasy-5-artificial-intelligence-lottery-number-predictor" >Florida Fantasy 5 A.I. Lottery Number Predictor</a></li><li class="item-1219"><a href="/picking-winning-numbers/artificial-intelligence/ai-powered-predictions-for-powerball" >AI Predictions for Powerball</a></li><li class="item-1220"><a href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-mega-millions" >AI Predictions for Mega Millions</a></li><li class="item-1221"><a href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-california-fantasy-5" >AI Predictions for California Fantasy 5</a></li><li class="item-1222"><a href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-florida-fantasy-5" >AI Predictions for Florida Fantasy 5</a></li><li class="item-1223"><a href="/picking-winning-numbers/artificial-intelligence/ai-powered-new-york-take-5-midday" >AI-Powered New York Take 5 Midday</a></li><li class="item-1224"><a href="/picking-winning-numbers/artificial-intelligence/ai-predictions-new-york-take-5-evening" >AI Predictions New York Take 5 Evening</a></li><li class="item-1225"><a href="/picking-winning-numbers/artificial-intelligence/ai-predictions-oklahoma-cash-5" >AI Predictions Oklahoma Cash 5 </a></li><li class="item-1226"><a href="/picking-winning-numbers/artificial-intelligence/ai-powered-lucky-for-life-predictions" >AI-Powered Lucky For Life Predictions</a></li><li class="item-1227"><a href="/picking-winning-numbers/artificial-intelligence/ai-predictions-for-california-superlotto-plus" >AI Predictions for California Superlotto Plus</a></li><li class="item-1252"><a href="/picking-winning-numbers/artificial-intelligence/ai-lottery-predictor-for-cash4life" >AI Lottery Predictor for Cash4Life</a></li><li class="item-1790"><a href="/picking-winning-numbers/artificial-intelligence/ai-lottery-prediction-puerto-rico-loto-plus" >AI Lottery Prediction Puerto Rico Loto Plus</a></li><li class="item-1884"><a href="/picking-winning-numbers/artificial-intelligence/ai-lottery-predictions-for-illinois-pick-3-midday" >AI Lottery Predictions for Illinois Pick 3 Midday</a></li><li class="item-2013"><a href="/picking-winning-numbers/artificial-intelligence/ai-lottery-prediction-a-responsible-data-driven-explanation" >AI Lottery Prediction — A Responsible, Data-Driven Explanation</a></li></ul></li><li class="item-1710"><a href="/picking-winning-numbers/revolutionizing-lottery-predictions-ai-neural-networks-and-statistical-insights" >Revolutionizing Lottery Predictions: AI, Neural Networks, and Statistical Insights</a></li></ul></li><li class="item-101 default"><a href="/" >LottoExpert</a></li><li class="item-1709"><a href="/ai-settings-explorer" >AI Settings Explorer </a></li><li class="item-1732 menu-deeper menu-parent"><span class="nav-header ">Membership<span class="menu-toggler"></span></span><ul class="menu-child"><li class="item-1843"><a href="/membership/logout?task=user.menulogout" >Logout</a></li><li class="item-1672 menu-deeper menu-parent"><a href="/membership/lottoexpert-subscriptions" >Subscriptions<span class="menu-toggler"></span></a><ul class="menu-child"><li class="item-1673"><a href="/membership/lottoexpert-subscriptions/subscription-form" >Subscription Form</a></li></ul></li><li class="item-1708"><a href="/membership/subscription-management" >Subscription Management</a></li></ul></li><li class="item-323"><a href="/logout?task=user.menulogout" >LOGOUT</a></li><li class="item-1771"><a href="/select-favorite-lotteries" >Select Favorite Lotteries</a></li></ul>
+</div></div>
+		
+		
+		
+		
+				
+		<!-- custom module position -->
+		
+	</div>
+</div>				
+
+		<script>
+  // Defer SP Page Builder JS unless needed early
+  let spscripts = [
+    '/components/com_sppagebuilder/assets/js/sppagebuilder.js',
+    '/components/com_sppagebuilder/assets/js/jquery.parallax.js'
+  ];
+  spscripts.forEach(src => {
+    let s = document.createElement('script');
+    s.src = src;
+    s.defer = true;
+    document.body.appendChild(s);
+  });
+</script>
+
+		
+
+		<!-- Go to top -->
+					<a href="#" class="sp-scroll-up" aria-label="Scroll Up"><span class="fas fa-angle-up" aria-hidden="true"></span></a>
+														<!-- Global Site Tag (gtag.js) - Google Analytics -->
+									<script async src="https://www.googletagmanager.com/gtag/js?id=G-H352V4S61X"></script>
+									<script>
+									  window.dataLayer = window.dataLayer || [];
+									  function gtag(){dataLayer.push(arguments);}
+									  gtag('js', new Date());
+									  gtag('config', 'G-H352V4S61X' );
+									</script></body>
+</html>
